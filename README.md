@@ -1,4 +1,4 @@
-# NYCU_WC
+# Wireless Communication
 ## Environment
 - GNU Octave 9.2.0
 ## Reference
